@@ -1,3 +1,4 @@
+//main.dart
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:geekssyergy/Splash_Screen/splash_screen.dart';
